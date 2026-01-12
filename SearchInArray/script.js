@@ -1,4 +1,4 @@
-let array = ["ram", "sham", "jaam", "sita", "gita"]
+let array = ["BMW", "TATA", "Mercedes", "Toyota", "Suzuki"]
 
 
 
